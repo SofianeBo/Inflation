@@ -1,6 +1,6 @@
 # Inflation
 
-This code calculates the predictions of cosmic [inflation](https://en.wikipedia.org/wiki/Inflation_(cosmology)) for single field inflatons. The code includes the cases of the presence of quantum smearing and those of non-minimal coupling of the inflaton to gravity.
+This code calculates the predictions of cosmic [inflation](https://en.wikipedia.org/wiki/Inflation_(cosmology)) for single field inflatons. The code includes the two non-standard cases of the presence of quantum corrections to the potential and of non-minimal coupling of the inflaton to gravity.
 
 This code was used for my papers:
 * Inflation and majoron dark matter in the seesaw mechanism. Published in Phys.Rev. D90 (2014) no.5, 055023. e-Print: arXiv:1404.3198
